@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MyGame" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MyGame" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Level1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="background.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="background.h" />
+		<Unit filename="coin.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="coin.h" />
+		<Unit filename="collision.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="collision.h" />
+		<Unit filename="enemy.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="enemy.h" />
+		<Unit filename="flame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="flame.h" />
+		<Unit filename="hppossion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="hppossion.h" />
+		<Unit filename="includes.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mana.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mana.h" />
+		<Unit filename="perso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="perso.h" />
+		<Unit filename="scrolling.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="scrolling.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

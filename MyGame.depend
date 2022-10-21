@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1557005728 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\main.c
+	"includes.h"
+
+1557007288 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\background.c
+	"includes.h"
+
+1557007276 c:\users\hp\desktop\chikhaoui chiheb\mygame\background.h
+	"includes.h"
+
+1557095496 c:\users\hp\desktop\chikhaoui chiheb\mygame\includes.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdbool.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"coin.h"
+	"background.h"
+	"collision.h"
+	"scrolling.h"
+	"hppossion.h"
+	"flame.h"
+	"mana.h"
+	"enemy.h"
+	"perso.h"
+
+1557058498 c:\users\hp\desktop\chikhaoui chiheb\mygame\coin.h
+	"background.h"
+
+1557004544 c:\users\hp\desktop\chikhaoui chiheb\mygame\collision.h
+	"includes.h"
+
+1557011686 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\coin.c
+	"includes.h"
+
+1557004606 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\collision.c
+	"includes.h"
+
+1557096768 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\level1.c
+	"includes.h"
+
+1557007077 c:\users\hp\desktop\chikhaoui chiheb\mygame\scrolling.h
+	"includes.h"
+
+1557073195 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\scrolling.c
+	"includes.h"
+
+1557014589 c:\users\hp\desktop\chikhaoui chiheb\mygame\hppossion.h
+	"background.h"
+	"includes.h"
+
+1557014589 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\hppossion.c
+	"includes.h"
+
+1557070745 c:\users\hp\desktop\chikhaoui chiheb\mygame\flame.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"includes.h"
+
+1557070745 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\flame.c
+	"flame.h"
+	"background.h"
+
+1557072697 c:\users\hp\desktop\chikhaoui chiheb\mygame\mana.h
+
+1557072698 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\mana.c
+	"includes.h"
+
+1557087003 c:\users\hp\desktop\chikhaoui chiheb\mygame\enemy.h
+	"includes.h"
+
+1557089844 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\enemy.c
+	"includes.h"
+	"enemy.h"
+
+1557090200 c:\users\hp\desktop\chikhaoui chiheb\mygame\perssonage.h
+	<stdbool.h>
+	<SDL/SDL.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1557090462 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\personnage.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"perssonage.h"
+
+1557096768 c:\users\hp\desktop\chikhaoui chiheb\mygame\perso.h
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1557096820 source:c:\users\hp\desktop\chikhaoui chiheb\mygame\perso.c
+	"perso.h"
+
+1557003688 source:d:\chikhaoui chiheb\mygame\background.c
+	"includes.h"
+
+1557091896 d:\chikhaoui chiheb\mygame\includes.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdbool.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"coin.h"
+	"background.h"
+	"collision.h"
+	"scrolling.h"
+	"hppossion.h"
+	"flame.h"
+	"mana.h"
+	"enemy.h"
+	"perso.h"
+
+1557054898 d:\chikhaoui chiheb\mygame\coin.h
+	"background.h"
+
+1557003676 d:\chikhaoui chiheb\mygame\background.h
+	"includes.h"
+
+1557000944 d:\chikhaoui chiheb\mygame\collision.h
+	"includes.h"
+
+1557003477 d:\chikhaoui chiheb\mygame\scrolling.h
+	"includes.h"
+
+1557010989 d:\chikhaoui chiheb\mygame\hppossion.h
+	"background.h"
+	"includes.h"
+
+1557067145 d:\chikhaoui chiheb\mygame\flame.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"includes.h"
+
+1557069097 d:\chikhaoui chiheb\mygame\mana.h
+
+1557083403 d:\chikhaoui chiheb\mygame\enemy.h
+	"includes.h"
+
+1557093168 d:\chikhaoui chiheb\mygame\perso.h
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1557008086 source:d:\chikhaoui chiheb\mygame\coin.c
+	"includes.h"
+
+1557001006 source:d:\chikhaoui chiheb\mygame\collision.c
+	"includes.h"
+
+1557086244 source:d:\chikhaoui chiheb\mygame\enemy.c
+	"includes.h"
+	"enemy.h"
+
+1557067145 source:d:\chikhaoui chiheb\mygame\flame.c
+	"flame.h"
+	"background.h"
+
+1557010989 source:d:\chikhaoui chiheb\mygame\hppossion.c
+	"includes.h"
+
+1558620669 source:d:\chikhaoui chiheb\mygame\level1.c
+	"includes.h"
+
+1557002128 source:d:\chikhaoui chiheb\mygame\main.c
+	"includes.h"
+
+1557069098 source:d:\chikhaoui chiheb\mygame\mana.c
+	"includes.h"
+
+1557093220 source:d:\chikhaoui chiheb\mygame\perso.c
+	"perso.h"
+
+1557069595 source:d:\chikhaoui chiheb\mygame\scrolling.c
+	"includes.h"
+
+1557003688 source:d:\my works\chikhaoui chiheb\mygame\background.c
+	"includes.h"
+
+1557091896 d:\my works\chikhaoui chiheb\mygame\includes.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<stdbool.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_mixer.h>
+	"coin.h"
+	"background.h"
+	"collision.h"
+	"scrolling.h"
+	"hppossion.h"
+	"flame.h"
+	"mana.h"
+	"enemy.h"
+	"perso.h"
+
+1557054898 d:\my works\chikhaoui chiheb\mygame\coin.h
+	"background.h"
+
+1557003676 d:\my works\chikhaoui chiheb\mygame\background.h
+	"includes.h"
+
+1557000944 d:\my works\chikhaoui chiheb\mygame\collision.h
+	"includes.h"
+
+1557003477 d:\my works\chikhaoui chiheb\mygame\scrolling.h
+	"includes.h"
+
+1557010989 d:\my works\chikhaoui chiheb\mygame\hppossion.h
+	"background.h"
+	"includes.h"
+
+1557067145 d:\my works\chikhaoui chiheb\mygame\flame.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"includes.h"
+
+1557069097 d:\my works\chikhaoui chiheb\mygame\mana.h
+
+1557083403 d:\my works\chikhaoui chiheb\mygame\enemy.h
+	"includes.h"
+
+1557093168 d:\my works\chikhaoui chiheb\mygame\perso.h
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1557008086 source:d:\my works\chikhaoui chiheb\mygame\coin.c
+	"includes.h"
+
+1557001006 source:d:\my works\chikhaoui chiheb\mygame\collision.c
+	"includes.h"
+
+1557086244 source:d:\my works\chikhaoui chiheb\mygame\enemy.c
+	"includes.h"
+	"enemy.h"
+
+1557067145 source:d:\my works\chikhaoui chiheb\mygame\flame.c
+	"flame.h"
+	"background.h"
+
+1557010989 source:d:\my works\chikhaoui chiheb\mygame\hppossion.c
+	"includes.h"
+
+1558620669 source:d:\my works\chikhaoui chiheb\mygame\level1.c
+	"includes.h"
+
+1557002128 source:d:\my works\chikhaoui chiheb\mygame\main.c
+	"includes.h"
+
+1557069098 source:d:\my works\chikhaoui chiheb\mygame\mana.c
+	"includes.h"
+
+1557093220 source:d:\my works\chikhaoui chiheb\mygame\perso.c
+	"perso.h"
+
+1557069595 source:d:\my works\chikhaoui chiheb\mygame\scrolling.c
+	"includes.h"
+
